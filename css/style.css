@@ -582,7 +582,7 @@ footer {
 .wrapper .content__presentation {
 	width: 100%;
 	height: 100%;
-	background: url("/img/block-1/bullets-all.png") 0 0/100% auto no-repeat, url("/img/block-1/footer.png") bottom center/100% auto no-repeat;
+	background: url("./img/block-1/bullets-all.png") 0 0/100% auto no-repeat, url("./img/block-1/footer.png") bottom center/100% auto no-repeat;
 }
 .wrapper .content__company {
 	margin-top: 114px;
@@ -647,9 +647,9 @@ footer {
 .wrapper .content__download {
 	z-index: 3;
 	position: relative;
-	/* 			background: url('/img/block-10/map.png') top right/contain no-repeat;
+	/* 			background: url('./img/block-10/map.png') top right/contain no-repeat;
 				@media (max-width: $md1+px) {
-					background: url('/img/block-10/map.png') top center/contain no-repeat;
+					background: url('./img/block-10/map.png') top center/contain no-repeat;
 					height: 800px;
 				} */
 }
@@ -2015,7 +2015,7 @@ footer {
 			left: 0;
 			width: 100%;
 			height: 100%;
-			background: url('/img/block-10/map.png') center right/52% auto no-repeat; */
+			background: url('./img/block-10/map.png') center right/52% auto no-repeat; */
 	margin-right: -19%;
 }
 @media (max-width: 1182px) {
